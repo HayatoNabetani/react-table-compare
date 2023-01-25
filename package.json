@@ -9,11 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-spreadsheet": "^20.4.44",
+    "@tanstack/react-table": "^8.7.6",
+    "@types/react-table": "^7.7.14",
+    "date-fns": "^2.29.3",
     "next": "13.1.4",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-spreadsheet": "^0.7.7",
+    "react-table": "^7.8.0",
+    "scheduler": "^0.23.0"
   },
   "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
     "@types/node": "18.11.18",
     "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
