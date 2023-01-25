@@ -11,7 +11,7 @@ type TData = {
 
 const createRandomData = () => {
     const result = [];
-    for (let i = 0; i < 10000; i++) {
+    for (let i = 0; i < 100000; i++) {
         result.push({
             col1: `${i}_Hello`,
             col2: true,
